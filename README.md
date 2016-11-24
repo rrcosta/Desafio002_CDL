@@ -39,7 +39,7 @@ Mini_magick - Gem
 
 ### Rodar
 
-Apos a instação do Ruby e dos frameworks, baise este repositorio em alguma pasta de sua preferência, descompactar o arquivo captchas e de o comando ruby ocr.rb no terminal (Mac/Linux) ou no prompt de Comando (windows)
+Após a instação do Ruby e dos frameworks, baixe este repositorio em alguma pasta de sua preferência, descompactar o arquivo captchas.zip (deixa os arquivos xyz.jpg dentro da pasta captchas) e de o comando ruby ocr.rb no terminal (Mac/Linux) ou no prompt de Comando (windows)
 
 
 ### Motivo da escolha
