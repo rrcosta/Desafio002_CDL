@@ -37,6 +37,11 @@ ImageMagick
 Mini_magick - Gem
  https://rubygems.org/gems/mini_magick/versions/4.5.1 (Mac / Windows / Linux )
 
+### Rodar
+
+Apos a instação do Ruby e dos frameworks, baise este repositorio em alguma pasta de sua preferência, descompactar o arquivo captchas e de o comando ruby ocr.rb no terminal (Mac/Linux) ou no prompt de Comando (windows)
+
+
 ### Motivo da escolha
 
 Tive um contratempo no trabalho, do qual fiquei alocado por um tempo maior que o usual. Para não deixar de fazer o desafio, criei este script.
