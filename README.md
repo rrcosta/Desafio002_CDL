@@ -11,12 +11,31 @@ Frameworks:
    
  Mini Magick ( https://github.com/minimagick/minimagick )
  
-### Como montar o ambiente:
+Como montar o ambiente:
 
 Para criarmos o ambiente é necessário possuir o Ruby na versão citada ou superior.
 
-Links para auxilio na criação: https://rubyinstaller.org/ e https://www.digitalocean.com/community/tutorials/how-to-install-ruby-on-rails-with-rbenv-on-ubuntu-16-04
+Links para auxilio na instalação do Ruby : https://rubyinstaller.org/ e https://www.digitalocean.com/community/tutorials/how-to-install-ruby-on-rails-with-rbenv-on-ubuntu-16-04
 
+Apos a instalação do Ruby é necessário instalarmos os frameworks.
+
+Mini Magick
+ Abra o terminal e digite:
+  gem "mini_magick"
+
+RTessaract 
+Acessando a pagina do github, notamos que é necessário possuirmos na maquina os seguintes programas
+
+Tesseract 
+ http://cactuslab.com/imagemagick/ (Mac)
+ http://emop.tamu.edu/Installing-Tesseract-Windows8 (Windows) 
+
+ImageMagick
+ brew install imagemagick (Mac) 
+ https://www.imagemagick.org/script/binary-releases.php (Windows)
+ 
+Mini_magick - Gem
+ https://rubygems.org/gems/mini_magick/versions/4.5.1 (Mac / Windows / Linux )
 
 ### Motivo da escolha
 
