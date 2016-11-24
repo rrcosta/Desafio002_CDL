@@ -19,11 +19,11 @@ Links para auxilio na instalação do Ruby : https://rubyinstaller.org/ e https:
 
 Apos a instalação do Ruby é necessário instalarmos os frameworks.
 
-Mini Magick
+Mini Magick::
  Abra o terminal e digite:
   gem "mini_magick"
 
-RTessaract 
+RTessaract::
 Acessando a pagina do github, notamos que é necessário possuirmos na maquina os seguintes programas
 
 Tesseract 
