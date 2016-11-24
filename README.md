@@ -7,12 +7,17 @@ Desenvolva uma aplicação que escolha de forma aleatória uma das imagens e imp
 Ruby (Versão 2.3.1)
 
 Frameworks:
- RTesseract
-   https://github.com/dannnylo/rtesseract
+ RTesseract ( https://github.com/dannnylo/rtesseract )
    
- Mini Magick
-   https://github.com/minimagick/minimagick
+ Mini Magick ( https://github.com/minimagick/minimagick )
+ 
+### Como montar o ambiente:
 
-## Motivo
+Para criarmos o ambiente é necessário possuir o Ruby na versão citada ou superior.
 
-Flexibilidade com vários frameworks
+Links para auxilio na criação: https://rubyinstaller.org/ e https://www.digitalocean.com/community/tutorials/how-to-install-ruby-on-rails-with-rbenv-on-ubuntu-16-04
+
+
+### Motivo da escolha
+
+Tive um contratempo no trabalho, do qual fiquei alocado por um tempo maior que o usual. Para não deixar de fazer o desafio, criei este script.
